@@ -1,0 +1,22 @@
+.cars{
+    background-color: blueviolet;
+    padding: 20px;
+    font-family: "Times New Roman";
+    margin: 20px;
+    text-align: left;
+}
+.fruits{
+    background-color: #9970bd;
+    text-align: center;
+    margin: 15px;
+    font-family: "Times New Roman";
+    padding: 20px;
+}
+#myId{
+    text-align: center;
+    background-color: blueviolet;
+    font-family: "Times New Roman";
+}
+#myId img{
+    width: 250px;
+}

@@ -1,0 +1,9 @@
+table{
+    width: 100%;
+    border-collapse: collapse;
+    font-family: sans-serif;
+}
+th,td{
+    border: 2px dotted blue;
+    padding: 13px;
+}
